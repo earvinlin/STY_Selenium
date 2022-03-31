@@ -2,9 +2,14 @@ from selenium import webdriver
 from selenium.webdriver.common.action_chains import ActionChains
 
 #driver=webdriver.Chrome()
-driver=webdriver.Firefox()
+#driver=webdriver.Firefox()
+driver = webdriver.Safari()
+
 # Navigate to page stored as local file
-driver.get("file:///E:/WORKSPACES/GithubProjects/STY_Selenium/drag_and_drop.html")
+#-- vivopc path
+#driver.get("file:///E:/WORKSPACES/GithubProjects/STY_Selenium/drag_and_drop.html")
+#-- iMac path
+driver.get("file:///Users/earvin/workspaces/GithubProjects/STY_Selenium/drag_and_drop.html")
 # Locate 'drag' element as source
 element1 =driver.find_element_by_id("drag")
 # Locate 'drop' element as target
