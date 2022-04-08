@@ -16,14 +16,17 @@ elem.send_keys(Keys.RETURN)
 assert("No results found." not in driver.page_source)
 
 try:
-    element = WebDriverWait(driver, 10).until(
-        EC.presence_of_element_located((By.XPATH, "//*[@class='link_blue']"))
+    element = WebDriverWait(driver, 20, 0.5).until(
+        EC.visibility_of_element_located(By.LINK_TEXT('股利政策'))
     )
     print("here")
+    web_element=driver.find_element_by_link_text('股利政策')
+    web_element.click()
 finally:
 #    driver.quit()
-    web_element=driver.find_element_by_link_text("股利政策")
+    web_element=driver.find_element_by_link_text('股利政策')
     web_element.click()
+    print("Finished!!")
 
 
 #driver.close() # 關閉browser

@@ -1860,3 +1860,136 @@ JavaScript warning: https://pagead2.googlesyndication.com/bg/VZx5lKL-R1DYt4uczQu
 
 ###!!! [Child][PContentChild] Error: Send(msgname=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
 
+1649423844370	geckodriver	INFO	Listening on 127.0.0.1:59758
+1649423847432	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59759" "-no-remote" "-profile" "C:\\Users\\linea\\AppData\\Local\\Temp\\rust_mozprofile9jexeB"
+1649423848487	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\linea\\AppData\\Local\\Temp\\rust_mozprofile9jexeB\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59759/devtools/browser/838f32f1-2ad6-417a-bba6-42c3d70c272a
+1649423854221	Marionette	INFO	Listening on port 59764
+1649423854338	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 223: uncaught exception: TagError: adsbygoogle.push() error: 'google_ad_client' is missing from the tag config.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://goodinfo.tw"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 222: uncaught exception: TagError: adsbygoogle.push() error: 'google_ad_client' is missing from the tag config.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/287vsxWa92ZzAf4Hva6mMSSE5qc9GsoRRsyFmqSdVGI.js line 1 > eval line 1459 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/287vsxWa92ZzAf4Hva6mMSSE5qc9GsoRRsyFmqSdVGI.js line 1 > eval line 4348 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1649423986297	Marionette	INFO	Stopped listening on port 59764
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1649423999024	geckodriver	INFO	Listening on 127.0.0.1:59890
+1649424002083	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59891" "-no-remote" "-profile" "C:\\Users\\linea\\AppData\\Local\\Temp\\rust_mozprofile2vTJJ9"
+1649424002699	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\linea\\AppData\\Local\\Temp\\rust_mozprofile2vTJJ9\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59891/devtools/browser/def787a4-f3cd-4557-a741-40edd133f6e0
+1649424006974	Marionette	INFO	Listening on port 59896
+1649424007433	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 223: uncaught exception: TagError: adsbygoogle.push() error: 'google_ad_client' is missing from the tag config.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://goodinfo.tw"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 223: uncaught exception: TagError: adsbygoogle.push() error: 'google_ad_client' is missing from the tag config.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/287vsxWa92ZzAf4Hva6mMSSE5qc9GsoRRsyFmqSdVGI.js line 1 > eval line 5643 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/287vsxWa92ZzAf4Hva6mMSSE5qc9GsoRRsyFmqSdVGI.js line 1 > eval line 7609 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/287vsxWa92ZzAf4Hva6mMSSE5qc9GsoRRsyFmqSdVGI.js line 1 > eval line 6517 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1649424067512	Marionette	INFO	Stopped listening on port 59896
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1649424170079	geckodriver	INFO	Listening on 127.0.0.1:60030
+1649424173156	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60031" "-no-remote" "-profile" "C:\\Users\\linea\\AppData\\Local\\Temp\\rust_mozprofilekN1E8z"
+1649424173718	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\linea\\AppData\\Local\\Temp\\rust_mozprofilekN1E8z\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60031/devtools/browser/84740cba-a436-4d6f-b5b6-d15c090a2a19
+1649424178169	Marionette	INFO	Listening on port 60036
+1649424178545	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1649424250116	Marionette	INFO	Stopped listening on port 60036
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1649424266592	geckodriver	INFO	Listening on 127.0.0.1:60091
+1649424269651	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60092" "-no-remote" "-profile" "C:\\Users\\linea\\AppData\\Local\\Temp\\rust_mozprofileYbliLW"
+1649424270297	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\linea\\AppData\\Local\\Temp\\rust_mozprofileYbliLW\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60092/devtools/browser/ee1ed07b-485b-45dc-b2b1-3dc3975f661e
+1649424274496	Marionette	INFO	Listening on port 60097
+1649424274555	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 223: uncaught exception: TagError: adsbygoogle.push() error: 'google_ad_client' is missing from the tag config.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://goodinfo.tw"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 223: uncaught exception: TagError: adsbygoogle.push() error: 'google_ad_client' is missing from the tag config.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/287vsxWa92ZzAf4Hva6mMSSE5qc9GsoRRsyFmqSdVGI.js line 1 > eval line 4422 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://goodinfo.tw/tw/StockDetail.asp?STOCK_ID=2002, line 1: ReferenceError: SaveScreenSize is not defined
+JavaScript error: https://goodinfo.tw/tw/StockDetail.asp?STOCK_ID=2002, line 1: ReferenceError: SaveScreenSize is not defined
+1649424658233	Marionette	INFO	Stopped listening on port 60097
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
