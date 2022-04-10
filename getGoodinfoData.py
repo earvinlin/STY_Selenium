@@ -44,6 +44,7 @@ web_element=driver.find_element_by_link_text('股利政策')
 web_element.click()
 
 # 這種寫法，有時侯會因為網頁載入太慢(>15秒)而失敗
+# https://stackoverflow.com/questions/57741875/selenium-common-exceptions-elementclickinterceptedexception-message-element-cl
 driver.implicitly_wait(15)
 button = driver.find_element_by_xpath("//input[@type='button' and @value='匯出XLS']")
 driver.execute_script("arguments[0].click();", button)
