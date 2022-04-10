@@ -45,6 +45,22 @@ try:
     web_element=driver.find_element_by_link_text('股利政策')
     web_element.click()
 
+<<<<<<< HEAD
+# 這種寫法，有時侯會因為網頁載入太慢(>10秒)而失敗
+driver.implicitly_wait(10)
+web_element=driver.find_element_by_link_text('股利政策')
+web_element.click()
+
+# 這種寫法，有時侯會因為網頁載入太慢(>15秒)而失敗
+# https://stackoverflow.com/questions/57741875/selenium-common-exceptions-elementclickinterceptedexception-message-element-cl
+driver.implicitly_wait(15)
+button = driver.find_element_by_xpath("//input[@type='button' and @value='匯出XLS']")
+driver.execute_script("arguments[0].click();", button)
+
+# 關閉browser
+driver.close() 
+
+=======
     # 這種寫法，有時侯會因為網頁載入太慢(>15秒)而失敗
     driver.implicitly_wait(15)
     button = driver.find_element_by_xpath("//input[@type='button' and @value='匯出XLS']")
@@ -54,3 +70,4 @@ finally:
     driver.close() 
     #os.rename('/Users/earvin/Downloads/DividendDetail.xls', '/Users/earvin/Downloads/5388.xls')
     os.rename('DividendDetail.xls', '2002.xls')
+>>>>>>> d89be31ed5ade55f461957938a34edae12aaf21f
