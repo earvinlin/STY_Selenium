@@ -7,7 +7,7 @@ xlsfiles/
 *.xls
 
 BACKFILES
-*.py
+
 
 *.bak
 *.log
