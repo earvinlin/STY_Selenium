@@ -10,3 +10,4 @@ xlsfiles/
 *.py
 
 *.bak
+*.log

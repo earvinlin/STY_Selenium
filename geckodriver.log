@@ -3998,6 +3998,13 @@ JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch res
 
 ###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
 
+<<<<<<< HEAD
+1649573446409	Marionette	INFO	Stopped listening on port 55010
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+=======
 1649579751677	geckodriver	INFO	Listening on 127.0.0.1:57417
 1649579754780	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\linea\\AppData\\Local\\Temp\\rust_mozprofileM4YMkr"
 1649579755212	Marionette	INFO	Marionette enabled
@@ -25860,6 +25867,7 @@ JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch res
 JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
 JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 223: uncaught exception: TagError: adsbygoogle.push() error: 'google_ad_client' is missing from the tag config.
 1649591270402	Marionette	INFO	Stopped listening on port 63244
+<<<<<<< HEAD
 1649591272454	geckodriver	INFO	Listening on 127.0.0.1:63352
 1649591275485	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\linea\\AppData\\Local\\Temp\\rust_mozprofilenOikfC"
 1649591275980	Marionette	INFO	Marionette enabled
@@ -36587,3 +36595,6 @@ JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js
 
 ###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
 
+=======
+>>>>>>> 653f0dbde60efa59631481dcee28979e9b2e0bf2
+>>>>>>> 51a71a50c1ae167d54def6bb368ce4fd29d466e9
