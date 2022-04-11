@@ -1,156 +1,156 @@
-python getGoodinfoDividendData.py 0050
-python getGoodinfoDividendData.py 0056
-python getGoodinfoDividendData.py 1101
-python getGoodinfoDividendData.py 1102
-python getGoodinfoDividendData.py 1210
-python getGoodinfoDividendData.py 1215
-python getGoodinfoDividendData.py 1232
-python getGoodinfoDividendData.py 1301
-python getGoodinfoDividendData.py 1303
-python getGoodinfoDividendData.py 1304
-python getGoodinfoDividendData.py 1308
-python getGoodinfoDividendData.py 1309
-python getGoodinfoDividendData.py 1314
-python getGoodinfoDividendData.py 1325
-python getGoodinfoDividendData.py 1326
-python getGoodinfoDividendData.py 1342
-python getGoodinfoDividendData.py 1476
-python getGoodinfoDividendData.py 1533
-python getGoodinfoDividendData.py 1536
-python getGoodinfoDividendData.py 1558
-python getGoodinfoDividendData.py 1560
-python getGoodinfoDividendData.py 1580
-python getGoodinfoDividendData.py 1732
-python getGoodinfoDividendData.py 1773
-python getGoodinfoDividendData.py 1802
-python getGoodinfoDividendData.py 2002
-python getGoodinfoDividendData.py 2006
-python getGoodinfoDividendData.py 2014
-python getGoodinfoDividendData.py 2031
-python getGoodinfoDividendData.py 2049
-python getGoodinfoDividendData.py 2301
-python getGoodinfoDividendData.py 2308
-python getGoodinfoDividendData.py 2312
-python getGoodinfoDividendData.py 2314
-python getGoodinfoDividendData.py 2317
-python getGoodinfoDividendData.py 2324
-python getGoodinfoDividendData.py 2344
-python getGoodinfoDividendData.py 2345
-python getGoodinfoDividendData.py 2353
-python getGoodinfoDividendData.py 2393
-python getGoodinfoDividendData.py 2397
-python getGoodinfoDividendData.py 2404
-python getGoodinfoDividendData.py 2412
-python getGoodinfoDividendData.py 2419
-python getGoodinfoDividendData.py 2420
-python getGoodinfoDividendData.py 2455
-python getGoodinfoDividendData.py 2467
-python getGoodinfoDividendData.py 2485
-python getGoodinfoDividendData.py 2498
-python getGoodinfoDividendData.py 2603
-python getGoodinfoDividendData.py 2609
-python getGoodinfoDividendData.py 2610
-python getGoodinfoDividendData.py 2618
-python getGoodinfoDividendData.py 2634
-python getGoodinfoDividendData.py 2729
-python getGoodinfoDividendData.py 2851
-python getGoodinfoDividendData.py 2882
-python getGoodinfoDividendData.py 2884
-python getGoodinfoDividendData.py 2886
-python getGoodinfoDividendData.py 2891
-python getGoodinfoDividendData.py 2897
-python getGoodinfoDividendData.py 2912
-python getGoodinfoDividendData.py 2926
-python getGoodinfoDividendData.py 3003
-python getGoodinfoDividendData.py 3014
-python getGoodinfoDividendData.py 3019
-python getGoodinfoDividendData.py 3023
-python getGoodinfoDividendData.py 3037
-python getGoodinfoDividendData.py 3045
-python getGoodinfoDividendData.py 3062
-python getGoodinfoDividendData.py 3078
-python getGoodinfoDividendData.py 3083
-python getGoodinfoDividendData.py 3086
-python getGoodinfoDividendData.py 3105
-python getGoodinfoDividendData.py 3293
-python getGoodinfoDividendData.py 3324
-python getGoodinfoDividendData.py 3338
-python getGoodinfoDividendData.py 3372
-python getGoodinfoDividendData.py 3491
-python getGoodinfoDividendData.py 3532
-python getGoodinfoDividendData.py 3546
-python getGoodinfoDividendData.py 3564
-python getGoodinfoDividendData.py 3576
-python getGoodinfoDividendData.py 3596
-python getGoodinfoDividendData.py 3611
-python getGoodinfoDividendData.py 3665
-python getGoodinfoDividendData.py 3675
-python getGoodinfoDividendData.py 3682
-python getGoodinfoDividendData.py 3711
-python getGoodinfoDividendData.py 3714
-python getGoodinfoDividendData.py 4108
-python getGoodinfoDividendData.py 4126
-python getGoodinfoDividendData.py 4161
-python getGoodinfoDividendData.py 4162
-python getGoodinfoDividendData.py 4414
-python getGoodinfoDividendData.py 4551
-python getGoodinfoDividendData.py 4736
-python getGoodinfoDividendData.py 4739
-python getGoodinfoDividendData.py 4744
-python getGoodinfoDividendData.py 4755
-python getGoodinfoDividendData.py 4904
-python getGoodinfoDividendData.py 4912
-python getGoodinfoDividendData.py 4915
-python getGoodinfoDividendData.py 4930
-python getGoodinfoDividendData.py 4953
-python getGoodinfoDividendData.py 4958
-python getGoodinfoDividendData.py 4977
-python getGoodinfoDividendData.py 5234
-python getGoodinfoDividendData.py 5243
-python getGoodinfoDividendData.py 5388
-python getGoodinfoDividendData.py 5478
-python getGoodinfoDividendData.py 5536
-python getGoodinfoDividendData.py 5871
-python getGoodinfoDividendData.py 5903
-python getGoodinfoDividendData.py 6126
-python getGoodinfoDividendData.py 6139
-python getGoodinfoDividendData.py 6176
-python getGoodinfoDividendData.py 6180
-python getGoodinfoDividendData.py 6196
-python getGoodinfoDividendData.py 6204
-python getGoodinfoDividendData.py 6214
-python getGoodinfoDividendData.py 6216
-python getGoodinfoDividendData.py 6230
-python getGoodinfoDividendData.py 6231
-python getGoodinfoDividendData.py 6244
-python getGoodinfoDividendData.py 6251
-python getGoodinfoDividendData.py 6269
-python getGoodinfoDividendData.py 6271
-python getGoodinfoDividendData.py 6277
-python getGoodinfoDividendData.py 6278
-python getGoodinfoDividendData.py 6282
-python getGoodinfoDividendData.py 6411
-python getGoodinfoDividendData.py 6412
-python getGoodinfoDividendData.py 6443
-python getGoodinfoDividendData.py 6446
-python getGoodinfoDividendData.py 6477
-python getGoodinfoDividendData.py 6494
-python getGoodinfoDividendData.py 6505
-python getGoodinfoDividendData.py 6523
-python getGoodinfoDividendData.py 6691
-python getGoodinfoDividendData.py 6706
-python getGoodinfoDividendData.py 6712
-python getGoodinfoDividendData.py 6803
-python getGoodinfoDividendData.py 8112
-python getGoodinfoDividendData.py 8341
-python getGoodinfoDividendData.py 8358
-python getGoodinfoDividendData.py 8416
-python getGoodinfoDividendData.py 8422
-python getGoodinfoDividendData.py 8436
-python getGoodinfoDividendData.py 8489
+rem python getGoodinfoDividendData.py 0050
+rem python getGoodinfoDividendData.py 0056
+rem python getGoodinfoDividendData.py 1101
+rem python getGoodinfoDividendData.py 1102
+rem python getGoodinfoDividendData.py 1210
+rem python getGoodinfoDividendData.py 1215
+rem python getGoodinfoDividendData.py 1232
+rem python getGoodinfoDividendData.py 1301
+rem python getGoodinfoDividendData.py 1303
+rem python getGoodinfoDividendData.py 1304
+rem python getGoodinfoDividendData.py 1308
+rem python getGoodinfoDividendData.py 1309
+rem python getGoodinfoDividendData.py 1314
+rem python getGoodinfoDividendData.py 1325
+rem python getGoodinfoDividendData.py 1326
+rem python getGoodinfoDividendData.py 1342
+rem python getGoodinfoDividendData.py 1476
+rem python getGoodinfoDividendData.py 1533
+rem python getGoodinfoDividendData.py 1536
+rem python getGoodinfoDividendData.py 1558
+rem python getGoodinfoDividendData.py 1560
+rem python getGoodinfoDividendData.py 1580
+rem python getGoodinfoDividendData.py 1732
+rem python getGoodinfoDividendData.py 1773
+rem python getGoodinfoDividendData.py 1802
+rem python getGoodinfoDividendData.py 2002
+rem python getGoodinfoDividendData.py 2006
+rem python getGoodinfoDividendData.py 2014
+rem python getGoodinfoDividendData.py 2031
+rem python getGoodinfoDividendData.py 2049
+rem python getGoodinfoDividendData.py 2301
+rem python getGoodinfoDividendData.py 2308
+rem python getGoodinfoDividendData.py 2312
+rem python getGoodinfoDividendData.py 2314
+rem python getGoodinfoDividendData.py 2317
+rem python getGoodinfoDividendData.py 2324
+rem python getGoodinfoDividendData.py 2344
+rem python getGoodinfoDividendData.py 2345
+rem python getGoodinfoDividendData.py 2353
+rem python getGoodinfoDividendData.py 2393
+rem python getGoodinfoDividendData.py 2397
+rem python getGoodinfoDividendData.py 2404
+rem python getGoodinfoDividendData.py 2412
+rem python getGoodinfoDividendData.py 2419
+rem python getGoodinfoDividendData.py 2420
+rem python getGoodinfoDividendData.py 2455
+rem python getGoodinfoDividendData.py 2467
+rem python getGoodinfoDividendData.py 2485
+rem python getGoodinfoDividendData.py 2498
+rem python getGoodinfoDividendData.py 2603
+rem python getGoodinfoDividendData.py 2609
+rem python getGoodinfoDividendData.py 2610
+rem python getGoodinfoDividendData.py 2618
+rem python getGoodinfoDividendData.py 2634
+rem python getGoodinfoDividendData.py 2729
+rem python getGoodinfoDividendData.py 2851
+rem python getGoodinfoDividendData.py 2882
+rem python getGoodinfoDividendData.py 2884
+rem python getGoodinfoDividendData.py 2886
+rem python getGoodinfoDividendData.py 2891
+rem python getGoodinfoDividendData.py 2897
+rem python getGoodinfoDividendData.py 2912
+rem python getGoodinfoDividendData.py 2926
+rem python getGoodinfoDividendData.py 3003
+rem python getGoodinfoDividendData.py 3014
+rem python getGoodinfoDividendData.py 3019
+rem python getGoodinfoDividendData.py 3023
+rem python getGoodinfoDividendData.py 3037
+rem python getGoodinfoDividendData.py 3045
+rem python getGoodinfoDividendData.py 3062
+rem python getGoodinfoDividendData.py 3078
+rem python getGoodinfoDividendData.py 3083
+rem python getGoodinfoDividendData.py 3086
+rem python getGoodinfoDividendData.py 3105
+rem python getGoodinfoDividendData.py 3293
+rem python getGoodinfoDividendData.py 3324
+rem python getGoodinfoDividendData.py 3338
+rem python getGoodinfoDividendData.py 3372
+rem python getGoodinfoDividendData.py 3491
+rem python getGoodinfoDividendData.py 3532
+rem python getGoodinfoDividendData.py 3546
+rem python getGoodinfoDividendData.py 3564
+rem python getGoodinfoDividendData.py 3576
+rem python getGoodinfoDividendData.py 3596
+rem python getGoodinfoDividendData.py 3611
+rem python getGoodinfoDividendData.py 3665
+rem python getGoodinfoDividendData.py 3675
+rem python getGoodinfoDividendData.py 3682
+rem python getGoodinfoDividendData.py 3711
+rem python getGoodinfoDividendData.py 3714
+rem python getGoodinfoDividendData.py 4108
+rem python getGoodinfoDividendData.py 4126
+rem python getGoodinfoDividendData.py 4161
+rem python getGoodinfoDividendData.py 4162
+rem python getGoodinfoDividendData.py 4414
+rem python getGoodinfoDividendData.py 4551
+rem python getGoodinfoDividendData.py 4736
+rem python getGoodinfoDividendData.py 4739
+rem python getGoodinfoDividendData.py 4744
+rem python getGoodinfoDividendData.py 4755
+rem python getGoodinfoDividendData.py 4904
+rem python getGoodinfoDividendData.py 4912
+rem python getGoodinfoDividendData.py 4915
+rem python getGoodinfoDividendData.py 4930
+rem python getGoodinfoDividendData.py 4953
+rem python getGoodinfoDividendData.py 4958
+rem python getGoodinfoDividendData.py 4977
+rem python getGoodinfoDividendData.py 5234
+rem python getGoodinfoDividendData.py 5243
+rem python getGoodinfoDividendData.py 5388
+rem python getGoodinfoDividendData.py 5478
+rem python getGoodinfoDividendData.py 5536
+rem python getGoodinfoDividendData.py 5871
+rem python getGoodinfoDividendData.py 5903
+rem python getGoodinfoDividendData.py 6126
+rem python getGoodinfoDividendData.py 6139
+rem python getGoodinfoDividendData.py 6176
+rem python getGoodinfoDividendData.py 6180
+rem python getGoodinfoDividendData.py 6196
+rem python getGoodinfoDividendData.py 6204
+rem python getGoodinfoDividendData.py 6214
+rem python getGoodinfoDividendData.py 6216
+rem python getGoodinfoDividendData.py 6230
+rem python getGoodinfoDividendData.py 6231
+rem python getGoodinfoDividendData.py 6244
+rem python getGoodinfoDividendData.py 6251
+rem python getGoodinfoDividendData.py 6269
+rem python getGoodinfoDividendData.py 6271
+rem python getGoodinfoDividendData.py 6277
+rem python getGoodinfoDividendData.py 6278
+rem python getGoodinfoDividendData.py 6282
+rem python getGoodinfoDividendData.py 6411
+rem python getGoodinfoDividendData.py 6412
+rem python getGoodinfoDividendData.py 6443
+rem python getGoodinfoDividendData.py 6446
+rem python getGoodinfoDividendData.py 6477
+rem python getGoodinfoDividendData.py 6494
+rem python getGoodinfoDividendData.py 6505
+rem python getGoodinfoDividendData.py 6523
+rem python getGoodinfoDividendData.py 6691
+rem python getGoodinfoDividendData.py 6706
+rem python getGoodinfoDividendData.py 6712
+rem python getGoodinfoDividendData.py 6803
+rem python getGoodinfoDividendData.py 8112
+rem python getGoodinfoDividendData.py 8341
+rem python getGoodinfoDividendData.py 8358
+rem python getGoodinfoDividendData.py 8416
+rem python getGoodinfoDividendData.py 8422
+rem python getGoodinfoDividendData.py 8436
+rem python getGoodinfoDividendData.py 8489
 python getGoodinfoDividendData.py 8942
 python getGoodinfoDividendData.py 9904
 python getGoodinfoDividendData.py 9910
 python getGoodinfoDividendData.py 9917
-python getGoodinfoDividendData.py 9925
-python getGoodinfoDividendData.py 9958
+rem python getGoodinfoDividendData.py 9925
+rem python getGoodinfoDividendData.py 9958

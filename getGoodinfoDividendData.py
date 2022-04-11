@@ -48,18 +48,30 @@ while (not isFinished):
         driver.implicitly_wait(15)
         button = driver.find_element_by_xpath("//input[@type='button' and @value='匯出XLS']")
         driver.execute_script("arguments[0].click();", button)
+        
+        isFinished = True
+
+    except BaseException:
+        retryCnt += 1
+        # out errorfile
+        with open("_errorlog.log", "a") as logFile:
+            logFile.write(stockFilename + " " + str(retryCnt) + " excption.\n")
+        logFile.close() 
+
     finally:
         # 關閉browser
-        driver.close() 
-        #os.rename('/Users/earvin/Downloads/DividendDetail.xls', '/Users/earvin/Downloads/5388.xls')
-        if os.path.isfile(dividendFilename):
-            os.rename(dividendFilename, stockFilename)
+        driver.close()
+        if retryCnt > 3:
             isFinished = True
-        else:
-            retryCnt += 1
-            if retryCnt >= maxRetryCnt:
-                isFinished = True
-                # out errorfile
-                with open("_errorlog.txt", "a") as logFile:
-                     logFile.write(stockFilename + " failure.\n")
-                logFile.close() 
+
+
+    #os.rename('/Users/earvin/Downloads/DividendDetail.xls', '/Users/earvin/Downloads/5388.xls')
+    if os.path.isfile(dividendFilename):
+        os.rename(dividendFilename, stockFilename)
+        isFinished = True
+    else:
+        if retryCnt >= maxRetryCnt:
+            # out errorfile
+            with open("_errorlog.txt", "a") as logFile:
+                logFile.write(stockFilename + " " + str(retryCnt) + " failure.\n")
+            logFile.close() 
