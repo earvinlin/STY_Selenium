@@ -11,3 +11,6 @@ BACKFILES
 
 *.bak
 *.log
+*.exe
+chromedriver.*
+geckodriver.*
