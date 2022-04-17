@@ -1,8 +1,8 @@
-rem python getGoodinfoDividendData.py 0050
-rem python getGoodinfoDividendData.py 0056
-rem python getGoodinfoDividendData.py 1101
-rem python getGoodinfoDividendData.py 1102
-rem python getGoodinfoDividendData.py 1210
+python getGoodinfoDividendData.py 0050
+python getGoodinfoDividendData.py 0056
+python getGoodinfoDividendData.py 1101
+python getGoodinfoDividendData.py 1102
+python getGoodinfoDividendData.py 1210
 rem python getGoodinfoDividendData.py 1215
 rem python getGoodinfoDividendData.py 1232
 rem python getGoodinfoDividendData.py 1301
@@ -148,9 +148,9 @@ rem python getGoodinfoDividendData.py 8416
 rem python getGoodinfoDividendData.py 8422
 rem python getGoodinfoDividendData.py 8436
 rem python getGoodinfoDividendData.py 8489
-python getGoodinfoDividendData.py 8942
-python getGoodinfoDividendData.py 9904
-python getGoodinfoDividendData.py 9910
-python getGoodinfoDividendData.py 9917
+rem python getGoodinfoDividendData.py 8942
+rem python getGoodinfoDividendData.py 9904
+rem python getGoodinfoDividendData.py 9910
+rem python getGoodinfoDividendData.py 9917
 rem python getGoodinfoDividendData.py 9925
 rem python getGoodinfoDividendData.py 9958
