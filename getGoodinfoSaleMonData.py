@@ -10,8 +10,8 @@ from selenium.webdriver.support import expected_conditions as EC
 from sqlalchemy import false
 
 if len(sys.argv) < 2 :
-    print("You need input one parameter(fmt : 2022) ")
-    print("syntax : C:\python getGoodinfoDividenData.py 2022 ")
+    print("You need input one parameter(fmt : 2002) ")
+    print("syntax : C:\python getGoodinfoSaleMonData.py 2002 ")
     sys.exit()
 
 maxRetryCnt = 3

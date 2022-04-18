@@ -116,25 +116,25 @@ rem python getGoodinfoSaleMonData.py 6126
 rem python getGoodinfoSaleMonData.py 6139
 rem python getGoodinfoSaleMonData.py 6176
 rem python getGoodinfoSaleMonData.py 6180
-rem python getGoodinfoSaleMonData.py 6196
-rem python getGoodinfoSaleMonData.py 6204
-rem python getGoodinfoSaleMonData.py 6214
-rem python getGoodinfoSaleMonData.py 6216
-rem python getGoodinfoSaleMonData.py 6230
-rem python getGoodinfoSaleMonData.py 6231
-rem python getGoodinfoSaleMonData.py 6244
-rem python getGoodinfoSaleMonData.py 6251
-rem python getGoodinfoSaleMonData.py 6269
-rem python getGoodinfoSaleMonData.py 6271
-rem python getGoodinfoSaleMonData.py 6277
-rem python getGoodinfoSaleMonData.py 6278
-rem python getGoodinfoSaleMonData.py 6282
-rem python getGoodinfoSaleMonData.py 6411
-rem python getGoodinfoSaleMonData.py 6412
-rem python getGoodinfoSaleMonData.py 6443
-rem python getGoodinfoSaleMonData.py 6446
-rem python getGoodinfoSaleMonData.py 6477
-rem python getGoodinfoSaleMonData.py 6494
+python getGoodinfoSaleMonData.py 6196
+python getGoodinfoSaleMonData.py 6204
+python getGoodinfoSaleMonData.py 6214
+python getGoodinfoSaleMonData.py 6216
+python getGoodinfoSaleMonData.py 6230
+python getGoodinfoSaleMonData.py 6231
+python getGoodinfoSaleMonData.py 6244
+python getGoodinfoSaleMonData.py 6251
+python getGoodinfoSaleMonData.py 6269
+python getGoodinfoSaleMonData.py 6271
+python getGoodinfoSaleMonData.py 6277
+python getGoodinfoSaleMonData.py 6278
+python getGoodinfoSaleMonData.py 6282
+python getGoodinfoSaleMonData.py 6411
+python getGoodinfoSaleMonData.py 6412
+python getGoodinfoSaleMonData.py 6443
+python getGoodinfoSaleMonData.py 6446
+python getGoodinfoSaleMonData.py 6477
+python getGoodinfoSaleMonData.py 6494
 python getGoodinfoSaleMonData.py 6505
 python getGoodinfoSaleMonData.py 6523
 python getGoodinfoSaleMonData.py 6691
