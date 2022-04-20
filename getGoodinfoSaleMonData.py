@@ -9,15 +9,15 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from sqlalchemy import false
 
-if len(sys.argv) < 2 :
-    print("You need input one parameter(fmt : 2002) ")
-    print("syntax : C:\python getGoodinfoSaleMonData.py 2002 ")
+if len(sys.argv) < 3 :
+    print("You need input one parameter(fmt : theStockCode theDate) ")
+    print("syntax : C:\python getGoodinfoSaleMonData.py 2002 20220420")
     sys.exit()
 
 maxRetryCnt = 3
 stockCode = sys.argv[1]
-logFilename = "_errorlogSD.log"
-stockFilename = stockCode + ".xls"
+logFilename = "__errorlogSD.log"
+stockFilename = stockCode + "-salemon-" + sys.argv[2] +".xls"
 dividendFilename = "SaleMonDetail.xls"
 
 if not os.path.isfile(logFilename):
